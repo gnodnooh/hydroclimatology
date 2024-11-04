@@ -1,4 +1,4 @@
-	Ithaca			Canandagua		
+	Ithaca			Canandaigua		
 Date	Precipitation	Max Temp.	Min Temp.	Precipitation	Max Temp.	Min Temp.
 1	0.00 	33	19	0.00 	34	28
 2	0.07 	32	25	0.04 	36	28
